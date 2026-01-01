@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Cars from "./pages/Cars";
-import CarDetails from "./pages/CarDetails";
+import CarDetails from "./pages/carDetails";
 import Contact from "./pages/Contact";
 
 import ProtectedRoute from "./components/ProtectedRoute";
